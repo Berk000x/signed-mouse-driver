@@ -5,7 +5,7 @@ Overview
 ---
 This is a signed mouse driver used in popular paid Valorant aimbots. We reversed it and bypassed all of its authentication.
 
-It was originally posted a few months ago, but the authentication was hardcoded (Windows build number, computer name, etc.). Through reversing, we figured out and automated the entire authentication, no more hardcoded values.
+It was originally posted a few months ago, but the authentication was hardcoded (Windows build number, computer name, etc.). Through reversing, we figured out and automated the entire authentication, no more hardcoded values. Aside from that, the code has also been completely rebuilt.
 
 How to Use It
 ---
