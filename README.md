@@ -7,7 +7,7 @@ This is a signed mouse driver used in popular paid Valorant aimbots. We reversed
 
 It was originally posted a few months ago, but the authentication was hardcoded (Windows build number, computer name, etc.). Through reversing, we figured out and automated the entire authentication, no more hardcoded values. Aside from that, the code has also been completely rebuilt.
 
-How to Use It
+How to use it
 ---
 It's very simple to use. The provided minimal usage handles everything for you, except loading the driver. You just need to load the driver and run the code, and it should work out of the box. However note that this driver may not work on some versions of Windows 11.
 
